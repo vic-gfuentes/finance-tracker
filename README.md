@@ -1,7 +1,10 @@
 # Finance Tracker Social Media
 
 * Ruby version
-
+```
+- Rails 6.0.3
+- Ruby 2.7.2
+```
 * System dependencies
 
 * Configuration
